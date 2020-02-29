@@ -1,7 +1,7 @@
-# Midwifery-Unit
-## Capstone Project - The Battle of Neighborhoods (Week 1)
-1. Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
 ## Amsterdam or Brussels: where to implement an Midwifery Unit?
+# Capstone Project - The Battle of Neighborhoods (Week 1)
+1. Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+
 The project is to choose the best city between Amsterdam and Brussels to implement a Midwifery Unit. A midewifery Unit is run by midwives and allows women to give birth in a more natural and comfortable way than in a hospital.  The advantages of giving birth at a midwifery unit include being surrounded by birth professionals where you may feel more relaxed and better able to cope with labour. It also allows the woman to be looked after by a midwife she has got to know during her pregnancy and most of all, studies show that giving birth in a midwifery unit lower the likelihood of having an intervention such as forceps or ventouse than women giving birth in hospital.
 However it's a safe place to give birth, the midwifery unit should be implemented close to a hospital in case of complications. Some of these units can be part of a hospital maternity unit, but for this project, we'll consider a unit independent of a hospital.
 
